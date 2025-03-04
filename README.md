@@ -1,6 +1,6 @@
 # vnpy-backtest-demo
 
-一个基于 [vnpy](https://github.com/vnpy/vnpy) 框架的简单示例项目，用于演示如何通过 RQData 下载期货历史数据并保存到本地 SQLite 数据库，再使用自定义策略进行回测。
+一个基于 [vnpy](https://github.com/vnpy/vnpy) 框架的无界面回测项目，用于演示如何通过 RQData 下载期货历史数据并保存到本地 SQLite 数据库，再使用自定义策略进行回测,可提升运行速度。
 
 ## 功能
 
